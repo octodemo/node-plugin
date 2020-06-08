@@ -1,5 +1,6 @@
 name: "Code scanning - action"
 
+# Runs codeql weekly, on push, and on pull request
 on:
   push:
   pull_request:
