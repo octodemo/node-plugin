@@ -6,8 +6,8 @@ name: Create issues from code scanning results
 ####
 
 on:
-  #workflow_dispatch:
-  #repository_dispatch:
+  ## workflow_dispatch:
+  ## repository_dispatch:
   push:
   schedule:
   - cron: "30 1 * * *"
