@@ -5,7 +5,7 @@ A quick and easy Node.js + Express + React 4 template project, using Twitter Boo
 
 Also available for [Jade](https://github.com/primaryobjects/Node.js-Bootstrap-Starter-Template).
 
-## Usage
+### Usage
 
 - Clone repository.
 - Open a command prompt, navigate to the folder, and enter: `npm install`
@@ -14,7 +14,7 @@ Also available for [Jade](https://github.com/primaryobjects/Node.js-Bootstrap-St
 - Launch the node server by navigating to the root folder and entering: `npm start`
 - Browse to http://localhost:3000
 
-### Development Usage
+#### Development Usage
 
 - Navigate to the folder `client` and enter: `npm start`
 
