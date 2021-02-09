@@ -1,9 +1,9 @@
 name: Create issues from code scanning results
 
-####
+#####
 # This workflow gets the latest code scanning results from the current
 # repository over the last 24 hours, and transfers results into issues
-####
+#####
 
 on:
   #workflow_dispatch:
