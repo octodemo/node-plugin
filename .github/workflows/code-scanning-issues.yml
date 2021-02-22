@@ -1,4 +1,5 @@
 # gitblock
+# test change - change should be blocked
 name: Create issues from code scanning results
 
 ####
