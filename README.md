@@ -17,7 +17,6 @@ Also available for [Jade](https://github.com/primaryobjects/Node.js-Bootstrap-St
 #### Development Usage
 
 - Navigate to the folder `client` and enter: `npm start`
-
   This will run the React client app.
 
   You can make changes to the pages in `/client/src/components` and see them update live.
